@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>explosion_center001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_center002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{40,0},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_center003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{80,0},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_center004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120,0},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_center005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{160,0},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_center006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{200,0},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_top001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0,40},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_top002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{40,40},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_top003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{80,40},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_top004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120,40},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_top005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{160,40},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_top006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{200,40},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_bottom001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0,80},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_bottom002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{40,80},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_bottom003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{80,80},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_bottom004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{120,80},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_bottom005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{160,80},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>explosion_bottom006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{40,40}</string>
+			<key>spriteSourceSize</key>
+			<string>{40,40}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{200,80},{40,40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+<key>explosion_left001.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{0,120},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_left002.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{40,120},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_left003.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{80,120},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_left004.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{120,120},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_left005.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{160,120},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_left006.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{200,120},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_right001.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{0,160},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_right002.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{40,160},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_right003.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{80,160},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_right004.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{120,160},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_right005.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{160,160},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_right006.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{200,160},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midtop001.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{0,200},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midtop002.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{40,200},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midtop003.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{80,200},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midtop004.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{120,200},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midtop005.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{160,200},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midtop006.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{200,200},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midbottom001.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{0,240},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midbottom002.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{40,240},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midbottom003.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{80,240},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midbottom004.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{120,240},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midbottom005.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{160,240},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midbottom006.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{200,240},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midleft001.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{0,280},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midleft002.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{40,280},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midleft003.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{80,280},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midleft004.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{120,280},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midleft005.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{160,280},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midleft006.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{200,280},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midright001.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{0,320},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midright002.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{40,320},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midright003.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{80,320},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midright004.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{120,320},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midright005.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{160,320},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+<key>explosion_midright006.png</key>
+<dict>
+<key>aliases</key>
+<array/>
+<key>sourceColorRect</key>
+<string>{{0,0},{40,40}}</string>
+<key>spriteOffset</key>
+<string>{0,0}</string>
+<key>spriteSize</key>
+<string>{40,40}</string>
+<key>spriteSourceSize</key>
+<string>{40,40}</string>
+<key>spriteTrimmed</key>
+<false/>
+<key>textureRect</key>
+<string>{{200,320},{40,40}}</string>
+<key>textureRotated</key>
+<false/>
+</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{286,360}</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>explosion.png</string>
+			<key>textureFileName</key>
+			<string>explosion</string>
+			<key>textureFileExtension</key>
+			<string>png</string>
+			<key>premultipliedAlpha</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
